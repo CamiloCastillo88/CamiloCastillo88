@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hola, soy Camilo Castillo
 
-<!--
-**CamiloCastillo88/CamiloCastillo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Quantitative Researcher | PhD in Economics | Data Scientist  
+💡 Especialista en optimización de portafolios, finanzas cuantitativas y ciencia de datos aplicada.  
+🔧 Python | R | Matlab | LaTeX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy Matemático con Maestría en Finanzas Cuantitativas y Doctorado en Economía.  
+Me dedico a la investigación en optimización financiera en tiempo continuo, análisis estocástico y desarrollo de herramientas computacionales para la toma de decisiones en economía y finanzas.  
+
+En este espacio encontrarás:
+
+- 📈 Modelos de optimización de portafolios desarrollados en mi tesis doctoral.  
+- 🧮 Scripts y dashboards construidos en clase para resolver problemas reales de inversión.  
+- 📊 Proyectos de ciencia de datos aplicados a series de tiempo, riesgo y rendimiento financiero.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=mathworks)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+
+---
+
+## 📚 Publicaciones académicas
+
+- 🔬 **ALM for Insurers with Multiple Underwriting Lines and Portfolio Constraints: A Lagrangian Duality Approach**  
+  _Computational and Applied Mathematics_ (2024)  
+  [DOI: 10.1007/s40314-024-02740-4](https://doi.org/10.1007/s40314-024-02740-4)
+
+- 📊 **Aplicación de teoría de valores extremos al riesgo de mercado: un enfoque no paramétrico**  
+  _Revista Colombiana de Estadística - Universidad Santo Tomás_  
+  [Ver artículo](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/2042)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloCastillo88&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCastillo88&layout=compact)
+
+---
+
+## 🔗 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-castillo-tarazona-284a7817b/)  [![ORCID](https://img.shields.io/badge/-ORCID-333333?style=flat&logo=orcid)](https://orcid.org/0000-0003-3064-3464)
+
+---
+
+_Gracias por visitar mi perfil. Explora mis repositorios y proyectos en desarrollo._
