@@ -1,7 +1,7 @@
 # 👋 Hola, soy Camilo Castillo
 
 🎓 Quantitative Researcher | PhD in Economics | Data Scientist  
-💡 Especialista en optimización de portafolios, finanzas cuantitativas y ciencia de datos aplicada.  
+💡 Optimización de portafolios, Finanzas Cuantitativas y ciencia de datos aplicada.  
 🔧 Python | R | Matlab | LaTeX  
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 Sobre mí
 
 Soy Matemático con Maestría en Finanzas Cuantitativas y Doctorado en Economía.  
-Me dedico a la investigación en optimización financiera en tiempo continuo, análisis estocástico y desarrollo de herramientas computacionales para la toma de decisiones en economía y finanzas.  
+Me dedico a la investigación en optimización en tiempo continuo, análisis estocástico y desarrollo de herramientas computacionales para la toma de decisiones en economía y finanzas.  
 
 En este espacio encontrarás:
 
