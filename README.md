@@ -36,9 +36,9 @@ En este espacio encontrarás:
   _Computational and Applied Mathematics_ (2024)  
   [DOI: 10.1007/s40314-024-02740-4](https://doi.org/10.1007/s40314-024-02740-4)
 
-- 📊 **Aplicación de teoría de valores extremos al riesgo de mercado: un enfoque no paramétrico**  
-  _Revista Colombiana de Estadística - Universidad Santo Tomás_  
-  [Ver artículo](https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/2042)
+- 📊 **AEstimación de los parámetros de la distribución Lambda generalizada a través del método de momentos y el programa MatLab**  
+  _Comunicaciones en Estadística - Universidad Santo Tomás_  
+  [Ver artículo](https://doi.org/10.15332/s2027-3355.2015.0002.04)
 
 ---
 
