@@ -27,7 +27,7 @@ En este espacio encontrarás:
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
-![SQL](https://img.shields.io)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 ---
 
