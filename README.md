@@ -2,14 +2,14 @@
 
 🎓 Quantitative Researcher | PhD in Economics | Data Scientist  
 💡 Optimización de portafolios, Finanzas Cuantitativas y ciencia de datos aplicada.  
-🔧 Python | R | Matlab | LaTeX  
+🔧 Python | R | Matlab | LaTeX | SQL
 
 ---
 
 ## 🚀 Sobre mí
 
 Soy Matemático con Maestría en Finanzas Cuantitativas y Doctorado en Economía.  
-Me dedico a la investigación en optimización en tiempo continuo, análisis estocástico y desarrollo de herramientas computacionales para la toma de decisiones en economía y finanzas.  
+Me dedico a la investigación en optimización en tiempo continuo, análisis estocástico y desarrollo de herramientas computacionales para la toma de decisiones.
 
 En este espacio encontrarás:
 
@@ -27,6 +27,7 @@ En este espacio encontrarás:
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![SQL](https://img.shields.io)
 
 ---
 
